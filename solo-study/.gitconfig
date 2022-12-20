@@ -1,7 +1,0 @@
-[user]
-	email = ak10044@naver.com
-	name = migyeonglee
-[init]
-	defaultBranch = main
-[core]
-	autocrlf = true
