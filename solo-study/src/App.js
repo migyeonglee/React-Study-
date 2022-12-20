@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './App.css';
-import BoolComponent from './BoolComponent';
+import BoolComponent from './props/BoolComponent';
 class App extends Component {
   render() {
    
