@@ -1,17 +1,11 @@
 import React from "react";
-import "./App.css";
-import StateExample from "./state/StateExample";
-import ForceUpdateExample from "./state/ForceUpdateExample";
-import Test from "./state/Test";
+import LifecycleExample from "./lifecycle/LifecycleExample";
+
 class App extends React.Component {
   render() {
     return (
       <>
-        <StateExample></StateExample>
-        <hr />
-        <ForceUpdateExample />
-        <hr />
-        <Test />
+        <LifecycleExample />
       </>
     );
   }
